@@ -19936,7 +19936,6 @@ pre {
 /*--//error--*/
 /*--/inner-banner--*/
 .breadcrumb-bg-about {
-    background: url(../images/banner4.jpg) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -20457,7 +20456,6 @@ section.w3l-passion-mid-sec {
 
 /*--/w3l-video--*/
 .w3l-video {
-    background: url(../images/banner5.jpg) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
@@ -20481,7 +20479,6 @@ section.w3l-passion-mid-sec {
 }
 
 .w3l-index5 {
-    background: url(../images/banner3.jpg) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
@@ -21042,5 +21039,3 @@ p.vhny-para {
     }
 }
 
-/*--//w3l-footer-29-main--*/
-/*# sourceMappingURL=style-freedom.css.map */
